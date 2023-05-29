@@ -1,0 +1,29 @@
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.AssemblyReference.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.Login.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.GenerateResource.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.FormMenu.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.Tetris.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.AssemblyReference.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.FormMenu.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.Login.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.GenerateResource.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.AssemblyReference.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.FormMenu.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.Login.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.GenerateResource.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.AssemblyReference.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.Form1.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.FormMenu.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.Login.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_без тетриса — копия\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.GenerateResource.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.AssemblyReference.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.Form1.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.FormMenu.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.Login.resources
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.vcxproj.GenerateResource.cache
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.Records.resources

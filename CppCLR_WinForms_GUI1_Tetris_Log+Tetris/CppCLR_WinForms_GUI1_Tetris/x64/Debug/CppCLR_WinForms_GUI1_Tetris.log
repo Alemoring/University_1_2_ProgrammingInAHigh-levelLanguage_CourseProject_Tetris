@@ -1,0 +1,16 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\Form1.h(642,27): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\Records.h(92,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\Login.h(200,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Form11.cpp
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\Form1.h(642,27): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  FormMenu.cpp
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\Form1.h(642,27): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\Records.h(92,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Login.cpp
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\Form1.h(642,27): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\Records.h(92,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\CppCLR_WinForms_GUI1_Tetris\Login.h(200,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CppCLR_WinForms_GUI1_Tetris.vcxproj -> C:\Users\Алемор\Desktop\Саша\Обучение\Программирование\Курсовая\CppCLR_WinForms_GUI1_Tetris_Log+Tetris\x64\Debug\CppCLR_WinForms_GUI1_Tetris.exe
